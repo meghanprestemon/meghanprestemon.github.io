@@ -1,0 +1,47 @@
+body {
+  background-image: url(http://www.indiedesigner.com/wp-content/uploads/2012/12/vintage_cig_paper005-1024x527.jpg);
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  color: rgb(87, 101, 42);
+  border: 2px solid rgb(87, 101, 42);
+  background-color: #dbd3a2;
+  width: 475px;
+  padding: 10px;
+  margin-top: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+}
+
+#quote-box {
+  background-color: rgba(209, 200, 150, 0.7);
+  border: 3px solid rgb(87, 101, 42);
+  position: relative;
+  width: 750px;
+  padding: 10px 20px;
+  margin-top: 7%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.author {
+  padding-top: 10px;
+}
+
+.twitter-share-button {
+  position: absolute;
+  right: 30px;
+}
+
+#getMessage {
+  margin: auto;
+  transform: translateY(29px);
+  border: 2px solid rgb(87, 101, 42);
+  background-color: #dbd3a2;
+  color: rgb(87, 101, 42);
+}
