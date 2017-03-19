@@ -1,0 +1,41 @@
+body {
+  font-family: "Lusitana", serif;
+  background-color: #AAB2B8;
+  margin-top: 25px;
+}
+
+.header {
+  background-color: #d5e0de;
+  border-radius: 5px;
+}
+
+.image {
+  width: 70%;
+  display: block;
+  margin: auto;
+}
+
+.photo {
+  background-color: #92aa92;
+  padding: 5px 0px;
+  border-radius: 5px;
+}
+
+h2 {
+ margin: .25em 0em; 
+}
+
+.list {
+  margin-top: 1em;
+  padding: 5px;
+  background-color: #d5e0de;
+  border-radius: 5px;
+  border: #92aa92 1px solid;
+}
+
+blockquote {
+  margin-top: 1em;
+  padding: 10px 5px;
+  background-color: #92aa92;
+  border-radius: 5px;
+}
