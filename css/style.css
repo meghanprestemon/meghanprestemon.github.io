@@ -1,0 +1,89 @@
+body {
+  font-family: "Raleway", sans-serif;
+  position: relative;
+}
+
+h1 {
+  font-family: "Lato", sans-serif;
+}
+
+nav {
+  font-family: "Lato", sans-serif;
+}
+
+#about {
+  padding-top: 110px;
+  margin-bottom: 30px;
+}
+
+.welcome-title {
+  font-size: 40px;
+}
+
+.welcome {
+  margin: 45px 60px 0px 0px;
+  font-size: 25px;
+}
+
+.image {
+  border: #AAB2B8 5px solid;
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+
+#projects {
+  padding-top: 50px;
+}
+
+.project-body {
+  margin-top: 25px;
+  padding: 20px 0px;
+  background-color: #dedfe0;
+}
+
+.thumbnail a>img.img-size {
+  height: 310px;
+}
+
+.caption {
+  height: 150px;
+}
+
+#contact {
+  padding-top: 30px;
+}
+
+.contact-text {
+  margin: 30px 0px;
+}
+
+.btn {
+  background-color: #dedfe0;
+}
+
+.social-media hr {
+  width: 60%;
+  margin-bottom: 20px;
+}
+
+.social-media i {
+  padding: 15px;
+}
+
+.social-media .fa-free-code-camp {
+  color: #006400;
+}
+
+.social-media .fa-github {
+  color: #24292e;
+}
+
+.social-media .fa-linkedin {
+  color: #0077B5;
+}
+
+footer {
+  margin-top: 15px;
+  line-height: 70%;
+}
